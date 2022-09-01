@@ -1,7 +1,5 @@
 TenderDuty v2
 
-https://github.com/blockpane/tenderduty
-
 Tenderduty, Tendermint zincirleri için kapsamlı bir izleme aracıdır. Birincil işlevi, blokların eksik olması durumunda bir doğrulayıcıyı uyarmaktır ve diğer birçok özelliğe sahiptir.
 
 # Docker ile Kurulum
